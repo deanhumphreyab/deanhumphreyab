@@ -1,16 +1,24 @@
-## Hi there 👋
+# Dean Humphrey
 
-<!--
-**deanhumphreyab/deanhumphreyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support & Networking Student  
+CompTIA A+ / Network+ (In Progress)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am currently focused on building a strong foundation in IT support, networking fundamentals, and system troubleshooting.
+
+Based in Alberta Canada, I am developing practical skills aligned with entry-level technical support and help desk roles. My focus includes system diagnostics, networking basics such as TCP/IP and DNS, and hands-on troubleshooting practice.
+
+---
+
+## Current Focus
+- IT Support & Technical Troubleshooting
+- Networking Fundamentals (TCP/IP, DNS)
+- System Diagnostics & Support Skills
+- CompTIA A+ and Network+ Certification Preparation
+
+---
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/deanhumphreyab/
