@@ -22,3 +22,5 @@ Based in Alberta Canada, I am developing practical skills aligned with entry-lev
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/deanhumphreyab/
+- Medium: https://medium.com/@deanhumphreyab
+- About.me: https://about.me/deanhumphrey
