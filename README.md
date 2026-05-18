@@ -35,6 +35,16 @@ Based in Edmonton, Alberta, I am developing skills aligned with entry-level tech
 
 ---
 
+## Featured Projects
+
+- [Audio and Video Muxing GUI](https://github.com/deanhumphreyab/audio-video-mux-gui)  
+  A small Python and FFmpeg project focused on workflow design, file handling, dependencies, documentation, and troubleshooting.
+
+- [Personal Website and IT Learning Portfolio](https://github.com/deanhumphreyab/deanhumphrey-site)  
+  Static website used to organize IT support learning notes, technical writing, projects, and profile links.
+  
+---
+
 ## Projects and Learning Notes
 
 I use this GitHub profile to document practical IT learning, troubleshooting notes, small technical projects, and networking study progress.
